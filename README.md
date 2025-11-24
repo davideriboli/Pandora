@@ -1,6 +1,6 @@
 # Corso AI Generativa & Didattica - Liceo "F. Mengaroni"
 
-## :::LiBookOpen::: Il Progetto
+## Il Progetto
 
 Questo *repository* ospita il *vault* Obsidian creato a supporto dei corsi di formazione sull'applicazione delle **Intelligenze Artificiali Generative alla didattica della grafica e della composizione multimediale**.
 
@@ -9,9 +9,8 @@ Il percorso formativo, inserito nel Progetto Mida, è stato riservato al corpo d
 - Curatore dei corsi: **prof. Davide Riboli**, Accademia di Belle Arti “M. Sironi”, Sassari
 - Tutor Grafica: **prof.ssa Luciana Forlani**, Liceo Artistico “F. Sironi”, Pesaro
 - Tutor Video: **prof.ssa Silvia Vimini**, Liceo Artistico “F. Sironi”, Pesaro
-- NotebookLM dedicato: [Prompt Engineering per Google Gemini](https://notebooklm.google.com/notebook/2ad7f5c3-d89a-4585-8ad3-9ecf94218cee)
 
-## :::LiFolderOpen::: Struttura del Vault
+## Struttura del Vault
 
 Il *vault* contiene dispense, appunti e risorse organizzati secondo la logica dei collegamenti bidirezionali di Obsidian. I temi principali trattati includono:
 
@@ -20,7 +19,7 @@ Il *vault* contiene dispense, appunti e risorse organizzati secondo la logica de
 * Integrazione dell'AI nel flusso di lavoro creativo
 * Integrazione dell'AI nel flusso di lavoro educativo
 
-## :::LiCog::: Come utilizzare questo Vault
+## Come utilizzare questo vault
 
 Sebbene i contenuti principali — soprattutto file di testo Markdown e PDF — siano leggibili direttamente qui su GitHub, per navigare correttamente tra i collegamenti e visualizzare i grafi concettuali è fondamentale usare Obsidian.
 
@@ -31,7 +30,7 @@ Sebbene i contenuti principali — soprattutto file di testo Markdown e PDF — 
     * Se non lo hai ancora, scarica [Obsidian](https://obsidian.md).
     * Scegli l'opzione *Open folder as vault* (Apri cartella come vault) e seleziona la cartella estratta.
 
-## :::LiTriangleAlert::: Licenze e Copyright
+## Licenze e Copyright
 
 Tutti i materiali originali e le dispense create dal prof. Davide Riboli sono distribuiti sotto licenza **Creative Commons Attribuzione - Non commerciale - Non opere derivate 4.0 Internazionale (CC BY-NC-ND 4.0)**.
 

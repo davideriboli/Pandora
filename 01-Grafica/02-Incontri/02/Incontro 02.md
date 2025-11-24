@@ -38,7 +38,7 @@ Il concetto è semplice:
 
 ---
 
-☕ **PAUSA BREVE (10 min)**
+**PAUSA BREVE (10 min)**
 
 ---
 
@@ -69,46 +69,12 @@ Esercizio pratico: "Intervistare il proprio NotebookLM".
 
 ---
 
-### POMODORO 3: Progettare lo Staff (Gems - Parte 1) (50 min)
+### POMODORO 3: Espandere il team creativo (50 min)
 
 *Creazione dell'Agente Strategico in Gemini Advanced.*
 
-**1. Introduzione ai Gem**
-I Gem sono versioni personalizzate di Gemini. Hanno istruzioni fisse, una personalità definita e un obiettivo unico.
-Non dobbiamo ripetere ogni volta "agisci come un esperto di marketing...". Lo settiamo una volta per tutte.
-
-**2. Creazione del Gem "Art Director"**
-* **Ruolo:** Visual Lead / Art Director.
-* **Obiettivo:** Suggerire concept grafici per tutti i touchpoint (Manifesti, Pieghevoli, Digital).
-* **System Instruction (Copia-Incolla da adattare):**
-    > "Sei l'Art Director dello Studio [Nome Gruppo]. La tua missione è tradurre concetti astratti in soluzioni visive impattanti.
-    > **Le tue Responsabilità:**
-    > 1. Proporre stili visivi coerenti (es. Swiss Style, Brutalist, Minimal).
-    > 2. Descrivere dettagliatamente layout e composizioni per i vari formati.
-    > 3. Definire palette colori (codici HEX se richiesti) e accoppiamenti tipografici.
-    > **Vincolo Assoluto:** NON SCRIVERE MAI I TESTI (headline o body copy). Per le parti testuali usa 'Lorem Ipsum' o scrivi '[Qui va la Headline]'. Concentrati solo sull'estetica."
-
-**3. Testing e Tuning (15 min)**
-Dialogare con la Gem Art Director.
-* Copiare i vincoli tecnici estratti da NotebookLM (Pomodoro 2) e incollarli nella chat.
-* Chiedere: "Basandoti su questi vincoli, proponi 3 concept visivi diversi per il manifesto 70x100 dell'Open Day. Descrivi l'immagine principale, la posizione del logo e la scelta tipografica".
-
-**3. Testing e Tuning (15 min)**
-Dialogare con la Gem appena creata.
-* Copiare i punti chiave estratti da NotebookLM (Pomodoro 2) e incollarli nella chat con la Gem Strategist.
-* Chiedere: "Basandoti su questi dati, definisci 3 possibili direzioni strategiche per il progetto".
-
----
-
-☕ **PAUSA BREVE (10 min)**
-
----
-
-### POMODORO 4: Espandere il team creativo (50 min)
-*Creazione dell'Agente Creativo e simulazione del flusso completo.*
-
 **1. Creazione dell'agente Copywriter**
-Creiamo il secondo assistente.
+Creiamo il primo assistente.
 * **Ruolo:** Creative Copywriter.
 * **Obiettivo:** Scrivere slogan, headline e testi emotivi.
 * **System Instruction (Copia-Incolla da adattare):**
@@ -128,5 +94,44 @@ Ogni gruppo deve salvare in una cartella Drive un documento contenente:
 
 ---
 
-*Ultima modifica: dom. 23/11/2025*
+**PAUSA BREVE (10 min)**
+
+---
+
+### POMODORO 4: Progettare lo Staff (Gems - Parte 1) (50 min)
+
+*Creazione dell'Agente Strategico in Gemini Advanced.*
+
+**1. Creazione del Gem "Art Director"**
+* **Ruolo:** Visual Lead / Art Director.
+* **Obiettivo:** Suggerire concept grafici per tutti i touchpoint (Manifesti, Pieghevoli, Digital).
+* **System Instruction (Copia-Incolla da adattare):**
+    > "Sei l'Art Director dello Studio [Nome Gruppo]. La tua missione è tradurre concetti astratti in soluzioni visive impattanti.
+    > **Le tue Responsabilità:**
+    > 1. Proporre stili visivi coerenti (es. Swiss Style, Brutalist, Minimal).
+    > 2. Descrivere dettagliatamente layout e composizioni per i vari formati.
+    > 3. Definire palette colori (codici HEX se richiesti) e accoppiamenti tipografici.
+    > **Vincolo Assoluto:** NON SCRIVERE MAI I TESTI (headline o body copy). Per le parti testuali usa 'Lorem Ipsum' o scrivi '[Qui va la Headline]'. Concentrati solo sull'estetica."
+
+**2. Testing e Tuning (15 min)**
+Dialogare con la Gem Art Director.
+* Copiare i vincoli tecnici estratti da NotebookLM (Pomodoro 2) e incollarli nella chat.
+* Chiedere: "Basandoti su questi vincoli, proponi 3 concept visivi diversi per il manifesto 70x100 dell'Open Day. Descrivi l'immagine principale, la posizione del logo e la scelta tipografica".
+
+**3. Testing e Tuning (15 min)**
+Dialogare con la Gem appena creata.
+* Copiare i punti chiave estratti da NotebookLM (Pomodoro 2) e incollarli nella chat con la Gem Strategist.
+* Chiedere: "Basandoti su questi dati, definisci 3 possibili direzioni strategiche per il progetto".
+
+## Prima dei saluti
+
+Raccomandazioni allo studio di Canva, in vista del prossimo incontro.
+
+- I Brand/Kit Aziendali
+- Brainstorming basati su AI
+- Planner di contenuti
+
+---
+
+*Ultima modifica: lun. 24/11/2025*
 

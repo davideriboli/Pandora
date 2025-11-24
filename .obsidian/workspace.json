@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Biblio/CatalogoPrompt.md",
+                "file": "03-Biblio/PromptCollection/Orson.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CatalogoPrompt"
+              "title": "Orson"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#chatgpt4o",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5085258483887
+    "width": 219.50852584838867
   },
   "right": {
     "id": "55a458f11274874b",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Biblio/Catalogo.md",
+                "file": "02-Multimedia/01-Info/01-ProgrammaGenerale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Catalogo"
+              "title": "Riferimenti a 01-ProgrammaGenerale"
             }
           },
           {
@@ -155,7 +155,8 @@
               "title": "Struttura di Senza nome"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -173,28 +174,39 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03-Biblio/PromptCollection/Leo.md",
+    "02-Multimedia/01-Info/00-Info.md",
+    "03-Biblio/PromptCollection/Orson.md",
     "README.md",
-    "01-Grafica/02-Incontri/02/Incontro 02.md",
-    "Senza nome.md",
-    "01-Grafica/02-Incontri/01/Incontro 01.md",
-    "03-Biblio/IndiceLetture.md",
-    "01-Grafica/01-Info/01-ProgrammaGenerale.md",
-    "03-Biblio/CatalogoPrompt.md",
-    "01-Grafica/02-Incontri/01/Pomodoro2/Pomodoro2.md",
+    "02-Multimedia/02-Incontri/05/Incontro 05.md",
+    "02-Multimedia/02-Incontri/04/Incontro 04.md",
+    "02-Multimedia/02-Incontri/03/Incontro 03.md",
+    "02-Multimedia/02-Incontri/02/AsWeRecall/As We Recall.md",
+    "02-Multimedia/02-Incontri/02/Incontro 02.md",
+    "02-Multimedia/02-Incontri/01/Incontro 01.md",
+    "02-Multimedia/02-Incontri/02/AsWeRecall",
     "01-Grafica/01-Info/00-Info.md",
-    "01-Grafica/02-Incontri/01/Pomodoro2",
-    "01-Grafica/01-Info/01-ProgrammaGenerale 1.md",
+    "01-Grafica/02-Incontri/01/Incontro 01.md",
+    "02-Multimedia/01-Info/01-ProgrammaGenerale.md",
+    "01-Grafica/01-Info/01-ProgrammaGenerale.md",
     "99-SalaMacchine/Modelli/Post Base.md",
+    "02-Multimedia/02-Incontri",
+    "02-Multimedia/01-Info",
+    "01-Grafica/02-Incontri/05/Incontro 05.md",
+    "01-Grafica/02-Incontri/04/Incontro 04.md",
+    "01-Grafica/02-Incontri/03/Incontro 03.md",
+    "01-Grafica/02-Incontri/02/Incontro 02.md",
+    "03-Biblio/CatalogoPrompt.md",
+    "03-Biblio/PromptCollection/Anna.md",
+    "03-Biblio/PromptCollection/Leo.md",
+    "03-Biblio/IndiceLetture.md",
+    "01-Grafica/02-Incontri/01/Pomodoro2/Pomodoro2.md",
+    "01-Grafica/02-Incontri/01/Pomodoro2",
     "03-Biblio/PDF/Linee guida per produzioni di video e immagini basate su IA.pdf",
     "03-Biblio/PromptCollection/The-Generative-Art-Prompt-Bible/README.md",
     "03-Biblio/PDF/Gemini_Prompt_Guide_for_Creatives_and_Strategists.pdf",
     "03-Biblio/PDF/Google-Gemini-Prompting-Guide-101-(2024).pdf",
     "03-Biblio/PDF/MIM_Linee guida IA nella Scuola_09_08_2025-signed.pdf",
     "03-Biblio/PDF",
-    "01-Grafica/02-Incontri/05",
-    "01-Grafica/02-Incontri/04",
-    "01-Grafica/02-Incontri/03",
-    "01-Grafica/02-Incontri/02"
+    "01-Grafica/02-Incontri/05"
   ]
 }

@@ -1,8 +1,11 @@
 ---
-title: Inserisci titolo
-description: "Inserisci descrizione."
-tags: [prompt, chatgpt4o]
-date: "dom. 23/11/2025"
+title: Applicazioni Digitali e IA per la Didattica del Progetto Grafico
+description: Programma del modulo
+tags:
+  - prompt
+  - grafica
+  - info
+date: dom. 23/11/2025
 ---
 # Applicazioni Digitali e IA per la Didattica del Progetto Grafico
 

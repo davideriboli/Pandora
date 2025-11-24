@@ -1,7 +1,9 @@
 ---
 title: Inserisci titolo
-description: "Inserisci descrizione."
-tags: [prompt, chatgpt4o]
+description: Inserisci descrizione.
+tags:
+  - prompt
+  - gem
 date: "{{date}}"
 ---
 

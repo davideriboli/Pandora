@@ -7,6 +7,7 @@ date: "dom. 23/11/2025"
 
 ## Gem
 
+- [Anna](Anna.md)
 - [Leo](Leo.md)
 
 ## Immagini
