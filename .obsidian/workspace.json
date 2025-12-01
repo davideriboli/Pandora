@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Biblio/PromptCollection/Orson.md",
-                "mode": "preview",
+                "file": "03-Biblio/PromptCollection/Leo.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Orson"
+              "title": "Leo"
             }
           }
         ]
@@ -174,9 +174,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02-Multimedia/01-Info/00-Info.md",
-    "03-Biblio/PromptCollection/Orson.md",
     "README.md",
+    "03-Biblio/PromptCollection/Orson.md",
+    "02-Multimedia/01-Info/00-Info.md",
     "02-Multimedia/02-Incontri/05/Incontro 05.md",
     "02-Multimedia/02-Incontri/04/Incontro 04.md",
     "02-Multimedia/02-Incontri/03/Incontro 03.md",
