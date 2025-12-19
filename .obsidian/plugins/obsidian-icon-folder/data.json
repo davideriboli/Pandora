@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMusic",
+      "🎵",
       "LiBook",
       "LiBookMarked",
-      "LiBookOpen",
-      "LiCog",
-      "LiClapperboard"
+      "LiBookOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,9 +34,9 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "01-Grafica": "LiPenTool",
-  "02-Multimedia": "LiClapperboard",
   "README.md": "LiBookOpen",
-  "03-Biblio": "LiBook",
-  "99-SalaMacchine": "LiCog"
+  "99-SalaMacchine": "LiCog",
+  "02-Suno": "LiMusic",
+  "02-Didattica": "LiPenTool",
+  "01-Biblio": "LiBook"
 }

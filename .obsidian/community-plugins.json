@@ -4,5 +4,7 @@
   "obsidian-minimal-settings",
   "homepage",
   "obsidian-smart-typography",
-  "url-into-selection"
+  "url-into-selection",
+  "dataview",
+  "obsidian-sort-and-permute-lines"
 ]

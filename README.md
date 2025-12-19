@@ -1,42 +1,30 @@
 ---
 icon: LiBookOpen
 ---
-# Corso AI Generativa & Didattica - Liceo "F. Mengaroni"
+# Pandora
 
-## Il Progetto
+Questo repository è nato come supporto digitale al percorso formativo riservato al corpo docente del Liceo Artistico "F. Mengaroni" di Pesaro e si è svolto tra dicembre 2025 e gennaio 2026, denominato “Progetto Mida”, 
 
-Il percorso formativo, inserito nel Progetto Mida, è stato riservato al corpo docente del Liceo Artistico "F. Mengaroni" di Pesaro e si è svolto tra dicembre 2025 e gennaio 2026.
+ I due moduli relativi alle **Intelligenze Artificiali Generative applicate alla didattica della grafica e della composizione multimediale** sono stati condotti da:
 
-Questo *repository* ospita il *vault* Obsidian creato a supporto dei corsi di formazione sull'applicazione delle **Intelligenze Artificiali Generative alla didattica della grafica e della composizione multimediale**.
+- **prof. Davide Riboli**, Accademia di Belle Arti “M. Sironi”, Sassari - {[CV](DR-CV.pdf)} curatore di entrambi i moduli.
+- **prof.ssa Luciana Forlani**, Liceo Artistico “F. Mengaroni”, Pesaro - tutor del modulo di Didattica della Grafica.
+- **prof.ssa Silvia Vimini**, Liceo Artistico “F. Mengaroni”, Pesaro, tutor di *authoring* Multimediale.
 
-- Curatore dei moduli: **prof. Davide Riboli**, Accademia di Belle Arti “M. Sironi”, Sassari
-- Tutor Grafica: **prof.ssa Luciana Forlani**, Liceo Artistico “F. Mengaroni”, Pesaro
-- Tutor Video: **prof.ssa Silvia Vimini**, Liceo Artistico “F. Mengaroni”, Pesaro
+Visto che il materiale raccolto può essere d’aiuto anche per le classi dei docenti che hanno partecipato ai moduli e forse non solo, proverò a mantenerlo disponibile e aggiornato il più a lungo possibile.
 
-> [!NOTE] AVVISO AI NAVIGANTI
-> Una versione in forma di sito web, con tutti i contenuti del *repository* è presente all’indirizzo: https://publish.obsidian.md/progetto-mida e sarà mantenuta *online* per tutta la durata degli incontri.
-> La password di accesso sarà comunicata al primo incontro di entrambi i moduli.
+## Struttura 
 
-## Struttura del Vault
+Il repository contiene dispense, appunti e risorse organizzati secondo la logica dei collegamenti bidirezionali di [Obsidian](https://obsidian.md). Dopo averlo scaricato ed espanso, dovrete consultarlo con Obsidian, un software gratuito e disponibile per qualsiasi sistema operativo, dedicato alla costruzione di basi di conoscenza e *digital garden*. Seguite questa procedura:
 
-Il *vault* contiene dispense, appunti e risorse organizzati secondo la logica dei collegamenti bidirezionali di Obsidian. I temi principali trattati includono:
-
-* Fondamenti di Prompt Design
-* AI per la generazione di testi, immagini, musiche e video
-* Integrazione dell'AI nel flusso di lavoro creativo
-* Integrazione dell'AI nel flusso di lavoro educativo
-
-## Come utilizzare questo vault
-
-Sebbene i contenuti principali — soprattutto file di testo Markdown e PDF — siano leggibili direttamente qui su GitHub, per navigare correttamente tra i collegamenti e visualizzare i grafi concettuali è fondamentale usare Obsidian.
-
-1.  **Scarica il repository:**
-    * Vai su https://github.com/davideriboli/ProgettoMida
-    * Clicca sul pulsante verde in alto a dx e poi **Download ZIP**
-    * Estrai la cartella sul tuo computer
-2.  **Aprilo con Obsidian:**
-    * Se non lo hai ancora, scarica [Obsidian](https://obsidian.md)
-    * Scegli l'opzione *Open folder as vault* (Apri cartella come vault) e seleziona la cartella estratta
+1.  **Scaricare il repository:**
+    * ANdate su https://github.com/davideriboli/Pandora (se state leggendo questa pagina da internet, ci siete già).
+    * Cliccate sul pulsante verde in alto a dx e poi **Download ZIP**..
+    * Estraete la cartella sul vostro computer.
+2.  **Aprirlo con Obsidian:**
+    * Se non lo avete ancora, scaricate [Obsidian](https://obsidian.md)
+    * Scegliete l'opzione *Open folder as vault* (Apri cartella come vault) e selezionate la cartella estratta.
+    * Alla domanda “Questo vault contiene plugin di terze parti[…]”, scegliete la risposta “Mi fido” e poi controllate se c’è bisogno di qualche aggiornamento. 
 
 ## Licenze e Copyright
 
