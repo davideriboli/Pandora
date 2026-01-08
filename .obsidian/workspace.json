@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02-Didattica/Info_Modulo-Multimedia.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Info_Modulo-Multimedia"
             }
           }
         ]
@@ -171,7 +171,7 @@
             "state": {
               "type": "NodeFlowView",
               "state": {},
-              "icon": "workflow",
+              "icon": "lucide-ghost",
               "title": "NodeFlowView"
             }
           }
@@ -195,8 +195,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "05-OnOurOwn/00-index.md",
     "README.md",
+    "05-OnOurOwn/00-index.md",
     "05-OnOurOwn/ComfyWorkflow/00-index.md",
     "05-OnOurOwn/ComfyWorkflow/Test.json",
     "05-OnOurOwn/01-ComfyOnLinux.md",
